@@ -1,0 +1,7 @@
+
+		List of attendace of date: 1/07/2022
+Roll.No 1: Absent
+Roll.No 2: Present
+Roll.No 3: Absent
+Roll.No 4: Present
+Roll.No 5: Absent
